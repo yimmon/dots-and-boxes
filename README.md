@@ -3,7 +3,7 @@ Qdab is a simple Dots and Boxes AI. It is written in golang and python2. The bas
 Qdab can reach a high level. I compared Qdab with dabble.exe(http://www.mathstat.dal.ca/~jpg/dabble/) and PRsBoxes.exe(http://www.dianneandpaul.net/PRsBoxes/), the result is Qdab won them in most cases.
 
 <h1>Running</h1>
-I have compiled Qdab for Windows and Linux, please download correct version before running.
+I have compiled Qdab for Windows and Linux, please download correct version before running.<br/>
 <b>Note: Please make sure you have seen "Server runing on 127.0.0.1:12345" before any operation.</b>
 
 <h2>Windows</h2>
