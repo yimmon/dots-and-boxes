@@ -8,11 +8,11 @@ Running
 I have compiled Qdab for Windows and Linux, please download correct version before running.
 
 Windows
-==============
+============
 Uncompress the .zip file, and double click <b>Qdab.bat</b>. 
 
 Linux
-==============
+============
 First, make sure you have already installed python2.7, gtk, and python-simplejson.
 Second, uncompress the .tar.bz2 file and make Qdab.sh executable. 
 Finally, go to the directory containing Qdab.sh, run <b>./Qdab.sh</b>.
