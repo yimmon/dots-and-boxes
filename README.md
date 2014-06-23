@@ -4,7 +4,7 @@ Qdab can reach a high level. I compared Qdab with dabble.exe(http://www.mathstat
 
 <h1>Running</h1>
 I have compiled Qdab for Windows and Linux, please download correct version before running.<br/>
-<b>Note: Please make sure you have seen "Server runing on 127.0.0.1:12345" before any operation.</b>
+<b>Note: Please make sure you have seen "Server runing on 127.0.0.1:12345" after run Qdab and before any other operation.</b>
 
 <h2>Windows</h2>
 Uncompress the .zip file, and double click <b>Qdab.bat</b>. 
