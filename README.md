@@ -13,6 +13,8 @@ First, make sure you have already installed python2.7, gtk, and python-simplejso
 Second, uncompress the .tar.bz2 file and make Qdab.sh executable. 
 Finally, go to the directory containing Qdab.sh, run <b>./Qdab.sh</b>.
 
+<b>Note: Please make sure you have seen "Server runing on 127.0.0.1:12345" before any operation.</b>
+
 <h1>Screenshot</h1>
 <img src="http://i.imgur.com/Krp4h89.png" />
 
